@@ -113,3 +113,49 @@ header {
     padding-left: 70px;
 
 }
+
+.gradiant {
+    margin-top: 100px;
+    margin-left: 150px;
+    background-image: url(../images/gradient2.png);
+    background-repeat: no-repeat;
+    height: 400px;
+    padding-top: 100px;
+    padding-left: 65px;
+
+}
+
+.gradiant-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.footer {
+    display: flex;
+    gap: 60px;
+    background-color: black;
+    height: 400px;
+    padding: 150px;
+
+}
+
+.future-title {
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+
+}
+
+.future-description {
+    color: #F8F8F8;
+
+}
+
+.input {
+    width: 325px;
+    height: 64px;
+    margin-bottom: 15px;
+}
